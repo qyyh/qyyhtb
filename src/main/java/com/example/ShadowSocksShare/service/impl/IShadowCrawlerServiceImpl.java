@@ -19,7 +19,7 @@ import java.util.Set;
 
 /**
  * iShadow
- * https://global.ishadowx.net/
+ * https://raw.githubusercontent.com
  */
 @Slf4j
 @Service("iShadowCrawlerServiceImpl")
